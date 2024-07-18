@@ -44,11 +44,6 @@ export const SummaryCard = styled.div<SummaryCardProps>`
     background: ${(props) => props.theme['green-700']};
   }
 
-  &:hover {
-    transition: background-color 0.2s;
-    background: ${(props) => props.theme['green-700']};
-  }
-
   @media (max-width: 768px) {
     grid-column: span 3;
   }

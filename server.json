@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Freelance de website",
+      "type": "income",
+      "category": "Dev",
+      "price": 6000,
+      "createdAt": "2024-07-12T09:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "description": "Aluguel",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 1000,
+      "createdAt": "2024-07-14T11:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "description": "Salário",
+      "type": "income",
+      "category": "Salário",
+      "price": 4500,
+      "createdAt": "2024-07-14T12:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "description": "Conta de luz",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 235.25,
+      "createdAt": "2024-07-14T12:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "description": "Conta de internet",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 100,
+      "createdAt": "2024-07-14T12:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "description": "Conta de agua",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 75.52,
+      "createdAt": "2024-07-14T12:00:00.000Z"
+    }
+  ]
+}
