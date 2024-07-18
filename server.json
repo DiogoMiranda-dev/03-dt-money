@@ -47,6 +47,22 @@
       "category": "Casa",
       "price": 75.52,
       "createdAt": "2024-07-14T12:00:00.000Z"
+    },
+    {
+      "description": "Desenvolvimento de APP",
+      "price": 100,
+      "category": "dev",
+      "type": "income",
+      "createdAt": "2024-07-18T17:43:29.814Z",
+      "id": 7
+    },
+    {
+      "description": "Viagem a trabalho",
+      "price": 670,
+      "category": "Viagem",
+      "type": "outcome",
+      "createdAt": "2024-07-18T17:57:44.516Z",
+      "id": 8
     }
   ]
 }
